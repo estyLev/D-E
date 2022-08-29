@@ -1,0 +1,39 @@
+A:\פרויקט חדש\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+A:\פרויקט חדש\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט חדש\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+A:\פרויקט חדש\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+A:\פרויקט חדש\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+A:\פרויקט חדש\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+A:\פרויקט חדש\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+A:\פרויקט חדש\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט חדש\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+D:\Angular\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+D:\Angular\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+D:\Angular\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+D:\Angular\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Angular\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Angular\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+D:\Angular\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+D:\Angular\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+D:\Angular\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+D:\Angular\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+D:\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+D:\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+D:\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+D:\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+D:\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+D:\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+D:\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+D:\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DAL\obj\Debug\netcoreapp3.0\DAL.pdb

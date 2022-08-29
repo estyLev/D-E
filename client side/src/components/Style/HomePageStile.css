@@ -1,0 +1,40 @@
+
+
+ul {
+    direction: rtl;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width:100% ;
+    height: 120px;
+    overflow: hidden;
+    background-color:rgb(105, 104, 104);
+    position: fixed;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgba(252, 250, 247, 0.883);
+    text-align: center;
+    padding: 25px 40px ;
+    text-decoration: none;
+    font-size: 35px;
+    margin-bottom: 0px;
+    height: 120px;
+  }
+  
+  li a:hover {
+    background-color: rgb(168, 167, 167);
+    color:rgb(56, 54, 54);
+  }
+  
+  #logo{
+    padding: 4px  ;
+    width:120px;
+     height: 120px;
+     float: left;
+  }

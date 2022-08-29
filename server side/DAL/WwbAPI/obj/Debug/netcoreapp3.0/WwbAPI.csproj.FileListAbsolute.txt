@@ -1,0 +1,6 @@
+A:\פרויקט חדש\DAL\WwbAPI\obj\Debug\netcoreapp3.0\WwbAPI.csprojAssemblyReference.cache
+A:\פרויקט חדש\DAL\WwbAPI\obj\Debug\netcoreapp3.0\staticwebassets\WwbAPI.StaticWebAssets.Manifest.cache
+A:\פרויקט חדש\DAL\WwbAPI\obj\Debug\netcoreapp3.0\staticwebassets\WwbAPI.StaticWebAssets.xml
+A:\פרויקט חדש\DAL\WwbAPI\obj\Debug\netcoreapp3.0\WwbAPI.MvcApplicationPartsAssemblyInfo.cache
+A:\פרויקט חדש\DAL\WwbAPI\obj\Debug\netcoreapp3.0\WwbAPI.AssemblyInfoInputs.cache
+A:\פרויקט חדש\DAL\WwbAPI\obj\Debug\netcoreapp3.0\WwbAPI.AssemblyInfo.cs

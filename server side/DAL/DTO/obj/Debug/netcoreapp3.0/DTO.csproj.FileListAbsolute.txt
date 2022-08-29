@@ -1,0 +1,44 @@
+A:\פרויקט חדש\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+A:\פרויקט חדש\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+A:\פרויקט חדש\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+A:\פרויקט חדש\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+A:\פרויקט חדש\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+A:\פרויקט חדש\DAL\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט חדש\DAL\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+A:\פרויקט חדש\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+A:\פרויקט חדש\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+A:\פרויקט חדש\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+A:\פרויקט חדש\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+D:\Angular\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+D:\Angular\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+D:\Angular\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\Angular\DAL\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Angular\DAL\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Angular\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+D:\Angular\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+D:\Angular\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+D:\Angular\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+D:\Angular\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+D:\Angular\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+D:\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+D:\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+D:\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\DAL\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+D:\DAL\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+D:\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+D:\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+D:\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+D:\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+D:\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\DTO\obj\Debug\netcoreapp3.0\DTO.pdb

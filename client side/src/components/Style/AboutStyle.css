@@ -1,0 +1,59 @@
+
+#conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction:row;
+    text-align: center;
+  }
+  #side{
+    flex: 20%;
+    background-color: rgba(190, 190, 190, 0.883);;
+    padding: 10px;
+    height: 1200px;
+    order:1;
+    /* font-size: 10px; */
+    font-size: 30px;
+  
+  }
+  #main{
+    flex: 70%;
+    background-color: rgba(207, 207, 207, 0.883);
+    padding: 20px;
+    height: 1200px;
+    color:rgb(102, 93, 87);
+    align-items: center;
+    text-align: center;
+  }
+  h1{
+    /* font-size: 20px; */
+    color: white;
+    text-shadow: 1px 10px 40px black, 0 0 25px rgb(10, 5, 1), 0 0 5px rgb(97, 90, 86);
+    /* margin-left: 80px; */
+  }
+  #p{
+     /* margin-left: 80px;
+     margin-right: 80px; */
+  
+     font-style: italic;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     
+    }
+  .branch{
+    /* background-color:rgba(187, 160, 124, 0.883); */
+    box-shadow:0 0 3px  rgb(95, 90, 86);
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 8px rgb(145, 129, 118), 0 0 5px rgb(51, 47, 44);
+    font-size: 20px;
+  
+    }
+  #mylogo{
+    margin-left: 100px;
+    width:50% ;
+    height:50%;
+  }
+  #description{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+  }

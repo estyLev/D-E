@@ -1,0 +1,19 @@
+.cat {
+    background-color:rgba(204, 201, 197, 0.883) ;
+    color: rgb(93, 93, 92);
+    border: 2px solid  rgb(93, 93, 92);
+    margin-right: 40px;
+   width:220px;
+  }
+  
+  .cat:hover {
+    background-color:  rgb(93, 93, 92);
+    color: rgba(204, 201, 197, 0.883) ;
+  }
+  #divCat{
+    display: inline-block;
+    margin:18px;
+    margin-top: 0px;
+  
+  
+  }

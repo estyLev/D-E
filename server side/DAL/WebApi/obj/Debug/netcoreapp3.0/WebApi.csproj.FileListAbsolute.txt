@@ -1,0 +1,628 @@
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.exe
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.deps.json
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.json
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.dev.json
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.pdb
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\BLL.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\DTO.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\BLL.pdb
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\DAL.pdb
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\DTO.pdb
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.csprojAssemblyReference.cache
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.xml
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfoInputs.cache
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfo.cs
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.RazorTargetAssemblyInfo.cache
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.csproj.CopyComplete
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.dll
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.pdb
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\פרויקט חדש\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.exe
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.deps.json
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.json
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.dev.json
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.pdb
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\BLL.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\DTO.dll
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\BLL.pdb
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Angular\DAL\WebApi\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.csprojAssemblyReference.cache
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfoInputs.cache
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfo.cs
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.csproj.CopyComplete
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.dll
+D:\Angular\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.pdb
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.exe
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.deps.json
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.json
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.dev.json
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.pdb
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\BLL.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\DAL.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\DTO.dll
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\BLL.pdb
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\DAL\WebApi\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.csprojAssemblyReference.cache
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfoInputs.cache
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfo.cs
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.csproj.CopyComplete
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.dll
+D:\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.exe
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\WebApi.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.xml
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.RazorTargetAssemblyInfo.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\obj\Debug\netcoreapp3.0\WebApi.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json

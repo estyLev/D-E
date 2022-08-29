@@ -1,0 +1,52 @@
+A:\פרויקט חדש\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+A:\פרויקט חדש\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+A:\פרויקט חדש\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+A:\פרויקט חדש\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+A:\פרויקט חדש\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+A:\פרויקט חדש\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+A:\פרויקט חדש\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט חדש\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+A:\פרויקט חדש\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+A:\פרויקט חדש\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+A:\פרויקט חדש\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+A:\פרויקט חדש\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+A:\פרויקט חדש\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+D:\Angular\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+D:\Angular\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+D:\Angular\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+D:\Angular\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\Angular\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+D:\Angular\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\Angular\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\Angular\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+D:\Angular\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+D:\Angular\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+D:\Angular\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+D:\Angular\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+D:\Angular\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+D:\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+D:\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+D:\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+D:\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+D:\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+D:\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+D:\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+D:\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+D:\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+D:\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+D:\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+D:\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+D:\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\דסי לב\REACT\פרויקט סוף\DAL\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
